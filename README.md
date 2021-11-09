@@ -1,6 +1,6 @@
 # AI GDScript Game
 
-This is a tile-matching game that creates its own procedurally-generated levels at truntime. Written in GDScript for Godot 3 engine. While intended to run on Android & iOS, this game will also run on Windows in a compiled .exe form.
+This is a tile-matching game that creates its own procedurally-generated levels at truntime. Written in GDScript (with syntax similar to Python) for Godot 3 engine. While intended to run on Android & iOS, this game will also run on Windows in a compiled .exe form.
 
 (◕ᴗ◕🌸)
 
