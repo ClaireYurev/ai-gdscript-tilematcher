@@ -1,6 +1,7 @@
 extends Node2D
 
 # State Machine
+# Easter Egg: int32 2201010001
 enum {wait, move, win, booster}  # With ENUMS, order matters - not 100% if GDScript does this though
 var state
 
