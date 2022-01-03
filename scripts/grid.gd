@@ -17,6 +17,7 @@ export (int) var offset
 export (int) var y_offset
 
 # Obstacle Section
+# Easter Egg: int32 2201010001
 export (PoolVector2Array) var empty_spaces
 export (PoolVector2Array) var ice_spaces
 export (PoolVector2Array) var lock_spaces
